@@ -1,6 +1,6 @@
 from datetime import datetime
 from itemadapter import ItemAdapter
-
+from datetime import datetime.now
 
 class JsonPipeline(object):
     def __init__(self):
